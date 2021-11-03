@@ -1,0 +1,8 @@
+EXAM:
+CRUD App that would have a list of family members(FAMILY TREE), then a details view based on
+chosen family member.
+Can be frontend focused (ReactJS, React Native)
+Can be backend focused, thru CLI app or API. (NodeJS)
+Can be database focused, thru data models/tables, with procedures and sql query combinations.
+Docker, noSQL database is also a plus.
+Provide source code (thru zipped email, or a public repo like github)
